@@ -1022,27 +1022,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/avalon/proprietary/vendor/etc/libnfc-nxp.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nxp.conf \
     vendor/oneplus/avalon/proprietary/vendor/etc/ltm_config_AA584_P_7_A0001_dsc_cmd_mode_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/ltm_config_AA584_P_7_A0001_dsc_cmd_mode_panel.xml \
     vendor/oneplus/avalon/proprietary/vendor/etc/oem_51_prj_OppoLTM8650_1689712162019.pfm:$(TARGET_COPY_OUT_VENDOR)/etc/oem_51_prj_OppoLTM8650_1689712162019.pfm \
-    vendor/oneplus/avalon/proprietary/vendor/etc/richtapresources/default/click.he:$(TARGET_COPY_OUT_VENDOR)/etc/richtapresources/default/click.he \
-    vendor/oneplus/avalon/proprietary/vendor/etc/richtapresources/default/double_click.he:$(TARGET_COPY_OUT_VENDOR)/etc/richtapresources/default/double_click.he \
-    vendor/oneplus/avalon/proprietary/vendor/etc/richtapresources/default/heavy_click.he:$(TARGET_COPY_OUT_VENDOR)/etc/richtapresources/default/heavy_click.he \
-    vendor/oneplus/avalon/proprietary/vendor/etc/richtapresources/default/pop.he:$(TARGET_COPY_OUT_VENDOR)/etc/richtapresources/default/pop.he \
-    vendor/oneplus/avalon/proprietary/vendor/etc/richtapresources/default/texture_tick.he:$(TARGET_COPY_OUT_VENDOR)/etc/richtapresources/default/texture_tick.he \
-    vendor/oneplus/avalon/proprietary/vendor/etc/richtapresources/default/thud.he:$(TARGET_COPY_OUT_VENDOR)/etc/richtapresources/default/thud.he \
-    vendor/oneplus/avalon/proprietary/vendor/etc/richtapresources/default/tick.he:$(TARGET_COPY_OUT_VENDOR)/etc/richtapresources/default/tick.he \
-    vendor/oneplus/avalon/proprietary/vendor/etc/richtapresources/strong/click.he:$(TARGET_COPY_OUT_VENDOR)/etc/richtapresources/strong/click.he \
-    vendor/oneplus/avalon/proprietary/vendor/etc/richtapresources/strong/double_click.he:$(TARGET_COPY_OUT_VENDOR)/etc/richtapresources/strong/double_click.he \
-    vendor/oneplus/avalon/proprietary/vendor/etc/richtapresources/strong/heavy_click.he:$(TARGET_COPY_OUT_VENDOR)/etc/richtapresources/strong/heavy_click.he \
-    vendor/oneplus/avalon/proprietary/vendor/etc/richtapresources/strong/pop.he:$(TARGET_COPY_OUT_VENDOR)/etc/richtapresources/strong/pop.he \
-    vendor/oneplus/avalon/proprietary/vendor/etc/richtapresources/strong/texture_tick.he:$(TARGET_COPY_OUT_VENDOR)/etc/richtapresources/strong/texture_tick.he \
-    vendor/oneplus/avalon/proprietary/vendor/etc/richtapresources/strong/thud.he:$(TARGET_COPY_OUT_VENDOR)/etc/richtapresources/strong/thud.he \
-    vendor/oneplus/avalon/proprietary/vendor/etc/richtapresources/strong/tick.he:$(TARGET_COPY_OUT_VENDOR)/etc/richtapresources/strong/tick.he \
-    vendor/oneplus/avalon/proprietary/vendor/etc/richtapresources/weak/click.he:$(TARGET_COPY_OUT_VENDOR)/etc/richtapresources/weak/click.he \
-    vendor/oneplus/avalon/proprietary/vendor/etc/richtapresources/weak/double_click.he:$(TARGET_COPY_OUT_VENDOR)/etc/richtapresources/weak/double_click.he \
-    vendor/oneplus/avalon/proprietary/vendor/etc/richtapresources/weak/heavy_click.he:$(TARGET_COPY_OUT_VENDOR)/etc/richtapresources/weak/heavy_click.he \
-    vendor/oneplus/avalon/proprietary/vendor/etc/richtapresources/weak/pop.he:$(TARGET_COPY_OUT_VENDOR)/etc/richtapresources/weak/pop.he \
-    vendor/oneplus/avalon/proprietary/vendor/etc/richtapresources/weak/texture_tick.he:$(TARGET_COPY_OUT_VENDOR)/etc/richtapresources/weak/texture_tick.he \
-    vendor/oneplus/avalon/proprietary/vendor/etc/richtapresources/weak/thud.he:$(TARGET_COPY_OUT_VENDOR)/etc/richtapresources/weak/thud.he \
-    vendor/oneplus/avalon/proprietary/vendor/etc/richtapresources/weak/tick.he:$(TARGET_COPY_OUT_VENDOR)/etc/richtapresources/weak/tick.he \
     vendor/oneplus/avalon/proprietary/vendor/etc/snapdragon_color_libs_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/snapdragon_color_libs_config.xml \
     vendor/oneplus/avalon/proprietary/vendor/firmware/CAMERA_ICP.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/CAMERA_ICP.b00 \
     vendor/oneplus/avalon/proprietary/vendor/firmware/CAMERA_ICP.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/CAMERA_ICP.b01 \
