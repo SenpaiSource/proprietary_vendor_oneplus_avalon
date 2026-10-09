@@ -1406,7 +1406,6 @@ PRODUCT_PACKAGES += \
     camera.qcom \
     com.qti.chi.offline \
     com.qti.chi.override \
-    vibrator.default \
     libGCore4Cell_32E2 \
     libPanelChaplin_vendor \
     libRGBC \
@@ -1507,7 +1506,6 @@ PRODUCT_PACKAGES += \
     libqseed3 \
     libqsegnet \
     libqshcamera \
-    libqtivibratoreffect \
     librcmask \
     libsdedrm \
     libsdm-color \
@@ -1532,7 +1530,6 @@ PRODUCT_PACKAGES += \
     libvideoml \
     libvmfilexfer \
     sensors.qsh \
-    vendor.aac.hardware.richtap.vibrator-V1-ndk_platform \
     vendor.display.color@1.0 \
     vendor.display.color@1.1 \
     vendor.display.color@1.2 \
@@ -1553,7 +1550,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.camera.offlinecamera-service-impl \
     vendor.qti.hardware.camera.postproc@1.0-service-impl \
     vendor.qti.hardware.qdutils_disp@1.0 \
-    vendor.qti.hardware.vibrator.impl \
     libQnnHtpV73Skel.signed.aiframe \
     libQnnHtpV73Skel.unsigned.aiframe \
     libQnnHtp.aiframe \
@@ -1781,7 +1777,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.camera.offlinecamera-impl.xml \
     vendor.qti.camera.postproc-impl.xml \
     vendor.qti.camera.provider.xml \
-    vendor.qti.hardware.vibrator.service.xml \
     manifest_displaycolorfeature_aidl.xml \
     manifest_oplus_camera_rfi.xml \
     manifest_oplus_cammidasservice_aidl.xml \
@@ -1792,7 +1787,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.camera.provider-service_64 \
     vendor.qti.hardware.display.color-service \
     vendor.qti.hardware.display.composer-service \
-    vendor.qti.hardware.vibrator.service \
     init.qti.graphics \
     ppd \
     qdcmss \
